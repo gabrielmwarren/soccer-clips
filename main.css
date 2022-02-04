@@ -1,0 +1,17 @@
+#embed-container {
+    display: table;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.copyright {
+    margin-left: 20%;
+    padding-top: 30px;
+}
