@@ -1,3 +1,8 @@
+body {
+    background-color: black;
+    color: white;
+}
+
 #embed-container {
     display: table;
     width: 100%;
@@ -11,7 +16,18 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.copyright {
-    margin-left: 20%;
-    padding-top: 30px;
+.bottom-nav {
+    background-color: rgb(32, 32, 46);
+    height: 80px;
+    width: 100%;
+}
+
+.text {
+    padding-top: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+a {
+    color: white;
 }
